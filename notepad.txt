@@ -1,0 +1,7 @@
+this is a python program
+a=10
+b=20
+sum=a+b
+print(sum)
+this is a python addition program
+
